@@ -10,8 +10,8 @@
 <table>
 <tr>
   <td><strong>   </strong></td>
-  <td><strong>album_uri (chr)</strong></td>
-  <td><strong>album_popularity (int)</strong></td>
+  <td><strong>album_uri (<em>chr</em>)</strong></td>
+  <td><strong>album_popularity (<em>int</em>)</strong></td>
 </tr>
 
 <tr>
