@@ -3,7 +3,6 @@
 <p>Christina Aguilera is an American artist who began her career from a very young age in children's television programs. However, she became famous in the late 1990s when she was part of the original soundtrack for Disney's Mulan with the song “Reflection”. Her discography is made up of 10 albums, several singles and the album of the film Burlesque, in which she was the protagonist and of which album she is the singer of the majority of songs. </p>
 <p>In this work we will analyze how he has varied throughout his albums of musical genres, from pop, R&B, blues, dance pop, electropop, soul, hip hop and circus style. To do this, I will choose several songs from each album, based also on the list "This is: Christina Aguilera" Spotify, in order to analyze which genre is exposed in each album. Therefore, some of the songs to be analysed according to the genre will be: "Fighter", "Lady Marmalade", "Candyman “,” Dirrty (feat. Redman)", "Ain't no other man" or "Genie in a bottle". Finally, and after giving each album a specific genre or majority (since some albums have several genres in it) I will analyze thanks to RStudio data which album, and thus which genre, had more popularity.</p>
 <html>
-<head><title>Albums Christina Aguilera</title></head>
 <body>
 
 <h1>Popularity of Christina Aguilera's albums</h1>
@@ -11,8 +10,8 @@
 <table>
 <tr>
   <td><strong>   </strong></td>
-  <td><strong>album_uri</strong></td>
-  <td><strong>album_popularity</strong></td>
+  <td><strong>album_uri (chr)</strong></td>
+  <td><strong>album_popularity (int)</strong></td>
 </tr>
 
 <tr>
