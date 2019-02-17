@@ -1,0 +1,175 @@
+<p><strong>HOMEWORK WEEK 7</strong></p>
+<p>In this section we will differentiate the different musical genres of each album of Christina Aguilera, the popularity of each and after that, we will make a ranking based on the genre and popularity.
+Christina Aguilera's albums are:</p>
+<ul>
+<li type="square">Christina Aguilera (Expanded Edition)</li>
+<li type="square">Mi Reflejo</li>
+<li type="square">My Kind Of Christmas</li>
+<li type="square">Just Be Free</li>
+<li type="square">Stripped</li>
+<li type="square">Back To Basics</li>
+<li type="square">Keeps Gettin Better: A Decade of Hits</li>
+<li type="square">Bionic (Deluxe Version)</li>
+<li type="square">Lotus (Deluxe Version)</li>
+<li type="square">Liberation</li>
+</ul>
+<p>And the popularity of each is this: </p>
+<h1>Popularity of Christina Aguilera's albums</h1>
+
+<table>
+<tr>
+  <td><strong>   </strong></td>
+  <td><strong>album_uri (<em>chr</em>)</strong></td>
+  <td><strong>album_popularity (<em>int</em>)</strong></td>
+</tr>
+
+<tr>
+  <td>1</td>
+  <td>Christina Aguilera (Expanded Edition)</td>
+  <td>72</td>
+</tr>
+
+<tr>
+  <td>2</td>
+  <td>Mi Reflejo</td>
+  <td>64</td>
+</tr>
+
+<tr>
+  <td>3</td>
+  <td>My kind of Christmas</td>
+  <td>69</td>
+</tr>
+
+<tr>
+  <td>4</td>
+  <td>Just be free</td>
+  <td>31</td>
+</tr>
+
+<tr>
+  <td>5</td>
+  <td>Stripped</td>
+  <td>75</td>
+</tr>
+
+<tr>
+  <td>6</td>
+  <td>Back to basics</td>
+  <td>68</td>
+</tr>
+
+<tr>
+  <td>7</td>
+  <td>Keeps Gettin Better: A Decade of Hits</td>
+  <td>59</td>
+</tr>
+
+<tr>
+  <td>8</td>
+  <td>Bionic (Deluxe Version)</td>
+  <td>60</td>
+</tr>
+
+<tr>
+  <td>9</td>
+  <td>Lotus (Deluxe Version)</td>
+  <td>3</td>
+</tr>
+
+<tr>
+  <td>10</td>
+  <td>Liberation</td>
+  <td>67</td>
+</tr>
+</table>
+
+</body>
+</html>
+<p>
+<p>The popularity of each album is rated between 0 and 100, with 100 being the most popular. So the ranking of Christina Aguilera's most popular albums would be:</p>
+<ol> 
+<li>Stripped</li> 
+<li>Christina Aguilera (Expanded Edition)</li> 
+<li>My kind of Christmas</li> 
+<li>Back to basics</li> 
+<li>Liberation</li> 
+<li>Mi Reflejo</li> 
+<li>Bionic (Deluxe Edition)</li> 
+<li>Keeps gettin better: A Decade of Hits</li> 
+<li>Just Be Free</li> 
+<li>Lotus (Deluxe Version)</li> 
+
+</ol> 
+<p>On the other hand, albums belong to these musical genres: </p>
+<table>
+<tr>
+  <td><strong>   </strong></td>
+  <td><strong>Album</strong></td>
+  <td><strong>Genre</strong></td>
+</tr>
+
+<tr>
+  <td>1</td>
+  <td>Christina Aguilera (Expanded Edition)</td>
+  <td>Pop/ Dance Pop/ Teen Pop/ R&B</td>
+</tr>
+
+<tr>
+  <td>2</td>
+  <td>Mi Reflejo</td>
+  <td>R&B/ Soul/ Pop Latino</td>
+</tr>
+
+<tr>
+  <td>3</td>
+  <td>My kind of Christmas</td>
+  <td>Pop</td>
+</tr>
+
+<tr>
+  <td>4</td>
+  <td>Just be free</td>
+  <td>Dance pop/ Teen Pop</td>
+</tr>
+
+<tr>
+  <td>5</td>
+  <td>Stripped</td>
+  <td>Pop/ R&B/ Hip-Hop</td>
+</tr>
+
+<tr>
+  <td>6</td>
+  <td>Back to basics</td>
+  <td>Pop/ R&B/ Soul/ Blues/ Jazz/ Swing/ Doo wop</td>
+</tr>
+
+<tr>
+  <td>7</td>
+  <td>Keeps Gettin Better: A Decade of Hits</td>
+  <td>Pop/ Dance pop/ R&B/ Pop Rock/ Hip-hop.</td>
+</tr>
+
+<tr>
+  <td>8</td>
+  <td>Bionic (Deluxe Version)</td>
+  <td>Pop/ Electropop/ Futurepop/ R&B</td>
+</tr>
+
+<tr>
+  <td>9</td>
+  <td>Lotus (Deluxe Version)</td>
+  <td>Pop/ Dance pop/ Electronic/ Pop rock</td>
+</tr>
+
+<tr>
+  <td>10</td>
+  <td>Liberation</td>
+  <td>R&B/ Hip Hop/ Soul/ Pop Rock/ Trap</td>
+</tr>
+</table>
+
+</body>
+</html>
+<p>
